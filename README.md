@@ -31,7 +31,7 @@ Any feedback is always welcome.<br/>
 많이 부족하지만, 제가 작업한 것을 공유하고, 공부한 것을 기록하고 있습니다.<br/>
 다양한 의견은 언제든지 환영입니다.<br/>
 
-<hr/> contact 
+<hr/>
 
 ###### How to Contact ME
 

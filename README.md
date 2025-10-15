@@ -9,12 +9,17 @@
 
 <hr/>
 
+### I'm also participating in...
+  - **42 GYEONGSAN (42경산)**
+    - *Peer-to-peer learning and Project-based software development.*
+
+<hr/>
+
 ###### I'm currently learn...
-  - OS
-  - communication
-  - algorithm
-  - SW design
-  - rasberry pi
+  - React (especially Next.js)
+  - DB
+  - JAVA
+  - computer architecture
   - and etc...
 
 <hr/>
@@ -22,7 +27,7 @@
 Hello. I'm tae gyu.<br/>
 i am majoring in computer engineering at Yeongnam University<br/>
 Currently, I am improving my programming skills through various projects.<br/>
-Although I still have a lot to learn,<br/> 
+Although I still have a lot to learn,<br/>
 I am sharing the work I have done and keeping a record of what I’ve studied.<br/>
 Any feedback is always welcome.<br/>
 
@@ -48,4 +53,3 @@ int main(){
   printf("Hello world");
   return (0);
 }
-```

@@ -5,9 +5,9 @@
 <hr/>
 
 <h3>I'm student of Yeongnam Unversity </h3>
-<h5><a href="https://www.yu.ac.kr/main/index.do">https://www.yu.ac.kr/main/index.do</a></h5>
+<h4><a href="https://www.yu.ac.kr/main/index.do">https://www.yu.ac.kr/main/index.do</a></h4>
 <h3>My major is computer engineering </h3>
-<h3><a href="https://cse.yu.ac.kr/cse/index.do">https://cse.yu.ac.kr/cse/index.do</a></h3>
+<h4><a href="https://cse.yu.ac.kr/cse/index.do">https://cse.yu.ac.kr/cse/index.do</a></h4>
 
 <hr/>
 

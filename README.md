@@ -13,17 +13,6 @@
   - **42 GYEONGSAN (42경산)**
     - *Peer-to-peer learning and Project-based software development.*
 
-<hr/>
-
-<h6>I'm currently learn...</h6>
-  - **React (especially Next.js)**
-  - communication
-  - algorithm
-  - SW design
-  - rasberry pi
-  - and etc...
-
-<hr/>
 
 Hello. I'm tae gyu.<br/>
 i am majoring in computer engineering at Yeongnam University and improving my programming skills through various projects, including the innovative 42 Gyeongsan program.<br/>
